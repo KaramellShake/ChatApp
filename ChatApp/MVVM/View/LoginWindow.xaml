@@ -1,0 +1,205 @@
+﻿<Window x:Class="ChatClient.MVVM.View.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ChatClient.MVVM.View"
+        mc:Ignorable="d"
+        Height="650" 
+        Width="500"
+        Background="Transparent"
+        WindowStyle="None"
+        AllowsTransparency="True"
+        ResizeMode="CanResizeWithGrip">
+
+    <!--Styles-->
+    <Window.Resources>
+
+        <Style x:Key="RoundedButton" 
+               TargetType="Button">
+
+            <Setter Property="Template">
+
+                <Setter.Value>
+
+                    <ControlTemplate TargetType="Button">
+
+                        <Border x:Name="border" 
+                                CornerRadius="15" 
+                                Background="{TemplateBinding Background}" 
+                                BorderThickness="{TemplateBinding BorderThickness}" 
+                                BorderBrush="{TemplateBinding BorderBrush}">
+
+                            <ContentPresenter HorizontalAlignment="Center" 
+                                              VerticalAlignment="Center"/>
+                        </Border>
+
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" 
+                                     Value="True">
+
+                                <Setter TargetName="border" 
+                                        Property="Background" 
+                                        Value="#7f7f7f"/>
+
+                            </Trigger>
+
+                            <Trigger Property="IsPressed" 
+                                     Value="True">
+
+                                <Setter TargetName="border" 
+                                        Property="Background" 
+                                        Value="#2a2a2a"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+
+                    </ControlTemplate>
+
+                </Setter.Value>
+
+            </Setter>
+
+        </Style>
+
+    </Window.Resources>
+
+    <Grid>
+
+        <!--Struktur des Fensters-->
+        <!--Titelleiste des Fensters-->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Border Grid.ColumnSpan="2" 
+                Background="#2E2E2E"
+                MouseDown="Border_MouseDown">
+
+            <Grid HorizontalAlignment="Stretch">
+                <Label Content="Login Vesta"
+                       Foreground="White"/>
+
+                <StackPanel HorizontalAlignment="Right"
+                            Orientation="Horizontal">
+
+                    <Button Width="20" 
+                            Height="20"
+                            Content="━"
+                            Background="Transparent"
+                            BorderThickness="0"
+                            Foreground="White"
+                            Click="ButtonMinimize_Click"/>
+
+                    <Button Width="20" 
+                            Height="20"
+                            Content="◻"
+                            Background="Transparent"
+                            BorderThickness="0"
+                            Foreground="White"
+                            Click="ButtonMaximize_Click"/>
+
+                    <Button Width="20" 
+                            Height="20"
+                            Content="🗙"
+                            Background="Transparent"
+                            BorderThickness="0"
+                            Foreground="White"
+                            Click="ButtonClose_Click"/>
+
+                </StackPanel>
+
+            </Grid>
+
+        </Border>
+
+        <Border Grid.Row="1" 
+                Background="#404040">
+
+            <!--Fensterinhalt-->
+            <StackPanel VerticalAlignment="Center" 
+                        HorizontalAlignment="Center">
+
+                <Image Source="/Icons/Logo.png"
+                       VerticalAlignment="Center"
+                       HorizontalAlignment="Center"
+                       Width="300" 
+                       Height="300"
+                       RenderOptions.BitmapScalingMode="Fant"
+                       Margin="0,0,0,0"/>
+
+                <Label Content="Username"
+                       VerticalAlignment="Center"
+                       HorizontalAlignment="Center"
+                       Foreground="White"
+                       FontSize="25"/>
+
+                <TextBox x:Name="userNametxt"
+                         Background="LightGray"
+                         Foreground="Gray"
+                         BorderBrush="Transparent"
+                         TextAlignment="Center"
+                         FontSize="16"
+                         VerticalAlignment="Center"
+                         HorizontalAlignment="Center"
+                         Height="30"
+                         Width="400"/>
+
+                <Label Content="Password"
+                       VerticalAlignment="Center"
+                       HorizontalAlignment="Center"
+                       Foreground="White"
+                       FontSize="25"
+                       Margin="0,5,0,0"/>
+
+                <PasswordBox x:Name="passwordtxt"
+                         Background="LightGray"
+                         Foreground="Gray"
+                         BorderBrush="Transparent"
+                         HorizontalContentAlignment="Center"
+                         FontSize="16"
+                         VerticalAlignment="Center"
+                         HorizontalAlignment="Center"
+                         Height="30"
+                         Width="400"/>
+
+                <Button x:Name="loginButton"
+                        Click="LoginButton_Click"
+                        Content="Log in"
+                        VerticalAlignment="Center"
+                        HorizontalAlignment="Center"
+                        Foreground="LightGray"
+                        Background="#646A6C"
+                        FontSize="16"
+                        Height="30"
+                        Width="200"
+                        Margin="0,25,0,0"
+                        Style="{StaticResource RoundedButton}"/>
+
+                <Label Content="or"
+                       VerticalAlignment="Center"
+                       HorizontalAlignment="Center"
+                       Foreground="White"
+                       FontSize="25"
+                       Margin="0,0,0,0"/>
+
+                <Button x:Name="registerButton"
+                        Click="RegisterButton_Click"
+                        Content="Register an account"
+                        VerticalAlignment="Center"
+                        HorizontalAlignment="Center"
+                        Foreground="LightGray"
+                        Background="#646A6C"
+                        FontSize="16"
+                        Height="30"
+                        Width="200"
+                        Margin="0,0,0,0"
+                        Style="{StaticResource RoundedButton}"/>
+
+            </StackPanel>
+
+        </Border>
+
+    </Grid>
+
+</Window>
