@@ -10,7 +10,7 @@ Register an account, and log in! Then, this window will close, and the chat app 
 
 ![Projekt 4](https://github.com/KaramellShake/ChatApp/assets/166949444/4a7225c5-47f8-48a8-ad44-d873e96baeec)
 
-Reminder: Isn't finished yet!
+Reminder: Isn't finished yet! I'm posting big updates like every month!
 
 TRADEMARK POLICY
 
