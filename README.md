@@ -8,9 +8,16 @@ First of all. You should download MSSQL, and you should create a new database wi
 
 Register an account, and log in! Then, this window will close, and the chat app appears. So now you'll be able to chat with all your friends!
 
-![Projekt 4](https://github.com/KaramellShake/ChatApp/assets/166949444/4a7225c5-47f8-48a8-ad44-d873e96baeec)
+![Chatting1](https://github.com/user-attachments/assets/c0d9fefa-0de3-4814-9905-5a3f405fbcab)
 
-Reminder: Isn't finished yet! I'm posting big updates like every month!
+![Chatting2](https://github.com/user-attachments/assets/78a8b92f-821b-458c-a46a-0bede0fc8dda)
+
+![Chatting3](https://github.com/user-attachments/assets/1f61a19e-e048-4741-877e-0b15ea139854)
+
+![Server1](https://github.com/user-attachments/assets/80a2c71d-00eb-40d3-aea2-f4f6bbf70399)
+
+
+Reminder: Isn't finished yet! I'm pushing the newest version soon!
 
 TRADEMARK POLICY
 
