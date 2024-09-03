@@ -8,13 +8,18 @@ First of all. You should download MSSQL, and you should create a new database wi
 
 Register an account, and log in! Then, this window will close, and the chat app appears. So now you'll be able to chat with all your friends!
 
-![Chatting1](https://github.com/user-attachments/assets/c0d9fefa-0de3-4814-9905-5a3f405fbcab)
+![GitHub1](https://github.com/user-attachments/assets/b187f458-80f6-48c5-921a-56ea5525c975)
 
-![Chatting2](https://github.com/user-attachments/assets/78a8b92f-821b-458c-a46a-0bede0fc8dda)
+![GitHub2](https://github.com/user-attachments/assets/1f9a8c1d-257f-499c-a7de-205e737e4e85)
 
-![Chatting3](https://github.com/user-attachments/assets/1f61a19e-e048-4741-877e-0b15ea139854)
+![GitHub3](https://github.com/user-attachments/assets/5c8750cc-0843-42c7-9728-b19c6355f38f)
 
-![Server1](https://github.com/user-attachments/assets/80a2c71d-00eb-40d3-aea2-f4f6bbf70399)
+![GitHub4](https://github.com/user-attachments/assets/9ef04e5c-e795-49d9-92a4-3c3931cca478)
+
+
+Start a private chat with your friend!
+
+![PrivateChat](https://github.com/user-attachments/assets/cec000ce-11fc-488e-8b2e-b253e1092bb6)
 
 
 Reminder: Isn't finished yet! I'm pushing the newest version soon!
