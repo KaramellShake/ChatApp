@@ -1,6 +1,6 @@
                                                   Welcome to Vesta!
 
-![VestaLogoRfr](https://github.com/user-attachments/assets/b0e5b8dc-624b-495d-93ec-f02c5ce193e9)
+![VestaLogoRfrsh](https://github.com/user-attachments/assets/badcb312-20f1-4b57-8928-1b4e5dacb9a1)
 
 First of all. You should download MSSQL, and you should create a new database with a table, which includes 3 columns. A UserID (PRIMARY KEY), a UserName, and a Password! When you're open the program, it will open the server for TCP, and the login/register window!
 
