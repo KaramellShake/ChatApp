@@ -19,7 +19,7 @@ Start a private chat with your friend!
 
 ![5](https://github.com/user-attachments/assets/abae99e0-c04a-4b97-bd05-a35e9ce5de5e)
 
-You can see all succesfully sent OpCodes on the console!
+You can see all successfully sent OpCodes on the console!
 
 ![6!](https://github.com/user-attachments/assets/23936d12-ac7d-4359-8a99-b752147fa654)
 
