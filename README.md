@@ -4,25 +4,30 @@
 
 First of all. You should download MSSQL, and you should create a new database with a table, which includes 3 columns. A UserID (PRIMARY KEY), a UserName, and a Password! When you're open the program, it will open the server for TCP, and the login/register window!
 
-![Patch1](https://github.com/user-attachments/assets/20f598bb-06a9-46c5-8bda-00d56e2ff25e)
+![Refresh1](https://github.com/user-attachments/assets/bc4de280-8f77-4390-b46c-c8e9824417d9)
 
 Register an account, and log in! Then, this window will close, and the chat app appears. So now you'll be able to chat with all your friends!
 
-![Patch2](https://github.com/user-attachments/assets/6b0045f5-3614-4ad1-97a3-e3045e8a1e3d)
+![Refresh2](https://github.com/user-attachments/assets/1e502877-b0b1-4df5-8da4-27a06afa93a3)
 
 Choose your wallpaper!
 
-![Patch3](https://github.com/user-attachments/assets/3f747106-c921-419e-8fd2-9f70f70aa9b0)
-![Patch4](https://github.com/user-attachments/assets/579422ba-90bf-493a-a3a1-8715e6ab10d0)
-![Patch5](https://github.com/user-attachments/assets/7edd5381-28f5-40a0-8f5c-d05bee78e29b)
+![Refresh3](https://github.com/user-attachments/assets/f72b55d3-9233-47b2-b02f-b9fc81d6f354)
+![Refresh4](https://github.com/user-attachments/assets/ae31290b-a5a3-4602-b07a-0ec6d42fc638)
+![Refresh5](https://github.com/user-attachments/assets/e9b79115-b730-4742-a107-e449a8978717)
 
 Start a private chat with your friend!
 
-![Patch6](https://github.com/user-attachments/assets/07785ce4-d726-4532-afce-981059956156)
+![Refresh6](https://github.com/user-attachments/assets/46ae92d5-acb8-481e-a2bb-f57d7067358e)
+
+Generate your own Emoji! (works with Python and a FastAPI) (in progress)
+
+![Refresh7](https://github.com/user-attachments/assets/089d9bad-b31e-486d-8afb-61c18b2a4afd)
+![Refresh8](https://github.com/user-attachments/assets/3cfce380-b555-4861-ba34-3aea11a86d72)
 
 You can see all successfully sent OpCodes on the console!
 
-![NewConsole](https://github.com/user-attachments/assets/1f08dc57-6700-45a6-a43c-900c703f88d8)
+![Refresh9 1](https://github.com/user-attachments/assets/f7dfe5e2-e590-4fd8-8b0b-fe391d980c2c)
 
 Reminder: Isn't finished yet! I'm pushing the newest version soon!
 
