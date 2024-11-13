@@ -18,11 +18,12 @@ Choose your wallpaper!
 
 Start a private chat with your friend!
 
-![Refresh6](https://github.com/user-attachments/assets/46ae92d5-acb8-481e-a2bb-f57d7067358e)
+![Refresh6 1](https://github.com/user-attachments/assets/8a3d8398-7213-4a90-99f6-4fbd98ace99a)
 
 Generate your own Emoji! (works with Python and a FastAPI) (in progress)
 
 ![Refresh7](https://github.com/user-attachments/assets/089d9bad-b31e-486d-8afb-61c18b2a4afd)
+
 ![Refresh8](https://github.com/user-attachments/assets/3cfce380-b555-4861-ba34-3aea11a86d72)
 
 You can see all successfully sent OpCodes on the console!
