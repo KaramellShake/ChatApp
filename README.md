@@ -24,7 +24,7 @@ Generate your own Emoji! (works with Python and a FastAPI) (in progress)
 
 ![Refresh7](https://github.com/user-attachments/assets/089d9bad-b31e-486d-8afb-61c18b2a4afd)
 
-![Update](https://github.com/user-attachments/assets/1ab41c49-888c-4bf4-a191-01187eea85f0)
+![KI-Test-Stable-Diffusion](https://github.com/user-attachments/assets/fbb3a8ac-71e4-4a9d-9b65-60fe1b88ee01)
 
 You can see all successfully sent OpCodes on the console!
 
