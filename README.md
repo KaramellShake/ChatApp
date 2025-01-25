@@ -2,7 +2,7 @@
 
 ![Logooo](https://github.com/user-attachments/assets/7a3f718b-ba56-4a2b-aea2-44bb8625d485)
 
-Register/Loginwindow!
+This is your Register/Loginwindow!
 
 ![LoginWindow](https://github.com/user-attachments/assets/813313fc-9755-47e1-998f-cdaad6a3167d)
 
