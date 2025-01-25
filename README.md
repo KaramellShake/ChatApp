@@ -30,6 +30,10 @@ Or generate your own Emoji! (works with Python and a FastAPI) (in progress)
 
 ![KI-Test-Stable-Diffusion](https://github.com/user-attachments/assets/fbb3a8ac-71e4-4a9d-9b65-60fe1b88ee01)
 
+You need privacy? Change your status!
+
+![ChangeStatus](https://github.com/user-attachments/assets/d94b9285-6e14-4f6f-8712-0ce6ab191397)
+
 You can see all successfully sent OpCodes on the console!
 
 ![Console](https://github.com/user-attachments/assets/24e64107-d1ed-44a0-ab53-91da9ccdf82c)
