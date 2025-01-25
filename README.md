@@ -2,37 +2,37 @@
 
 ![Logooo](https://github.com/user-attachments/assets/7a3f718b-ba56-4a2b-aea2-44bb8625d485)
 
-First of all. You should download MSSQL, and you should create a new database with a table, which includes 3 columns. A UserID (PRIMARY KEY), a UserName, and a Password! When you're open the program, it will open the server for TCP, and the login/register window!
+Register/Loginwindow!
 
-![Refresh1](https://github.com/user-attachments/assets/bc4de280-8f77-4390-b46c-c8e9824417d9)
+![LoginWindow](https://github.com/user-attachments/assets/813313fc-9755-47e1-998f-cdaad6a3167d)
 
-Register an account, and log in! Then, this window will close, and the chat app appears. So now you'll be able to chat with all your friends!
+Register an account, and log in! Then, this window will close, and the chat app appears. So now you'll be able to chat with all of your friends!
 
-![Refresh2](https://github.com/user-attachments/assets/1e502877-b0b1-4df5-8da4-27a06afa93a3)
+![Chat1](https://github.com/user-attachments/assets/c8805e27-49a4-42e2-b9d3-3d198384c51d)
 
 Choose your wallpaper!
 
-![Refresh3](https://github.com/user-attachments/assets/f72b55d3-9233-47b2-b02f-b9fc81d6f354)
-![Refresh4](https://github.com/user-attachments/assets/ae31290b-a5a3-4602-b07a-0ec6d42fc638)
-![Refresh5](https://github.com/user-attachments/assets/e9b79115-b730-4742-a107-e449a8978717)
+![Chat2](https://github.com/user-attachments/assets/657d469c-bfd3-44b3-ad52-f013d91c4d78)
+![Chat3](https://github.com/user-attachments/assets/971647d2-ef1e-46d0-a6e2-450dc220f01c)
+![Chat4](https://github.com/user-attachments/assets/06f46e72-ad9e-4f88-a72a-68e2db440f99)
 
 Start a private chat with your friend!
 
-![Refresh6 1](https://github.com/user-attachments/assets/8a3d8398-7213-4a90-99f6-4fbd98ace99a)
+![PrivateChat](https://github.com/user-attachments/assets/ea5c90f7-6885-400d-bfc7-dd763aefb5a0)
 
 Send an Emoji!
 
-![Emojis](https://github.com/user-attachments/assets/7bb46d92-823d-406b-a991-b28398775c2f)
+![Emojis](https://github.com/user-attachments/assets/4491a481-6cf1-4a44-a3fe-3a777d9d882c)
 
 Or generate your own Emoji! (works with Python and a FastAPI) (in progress)
 
-![Refresh7](https://github.com/user-attachments/assets/089d9bad-b31e-486d-8afb-61c18b2a4afd)
+![EmojiKI](https://github.com/user-attachments/assets/23d54863-21de-4217-a543-f72218b32df5)
 
 ![KI-Test-Stable-Diffusion](https://github.com/user-attachments/assets/fbb3a8ac-71e4-4a9d-9b65-60fe1b88ee01)
 
 You can see all successfully sent OpCodes on the console!
 
-![Refresh9 1](https://github.com/user-attachments/assets/f7dfe5e2-e590-4fd8-8b0b-fe391d980c2c)
+![Console](https://github.com/user-attachments/assets/24e64107-d1ed-44a0-ab53-91da9ccdf82c)
 
 Reminder: Isn't finished yet! I'm pushing the newest version soon!
 
