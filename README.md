@@ -28,7 +28,7 @@ Or generate your own Emoji! (works with Python and a FastAPI) (in progress)
 
 ![EmojiKI](https://github.com/user-attachments/assets/23d54863-21de-4217-a543-f72218b32df5)
 
-![KI-Test-Stable-Diffusion](https://github.com/user-attachments/assets/fbb3a8ac-71e4-4a9d-9b65-60fe1b88ee01)
+![Python-Stable-Diffusion-Model](https://github.com/user-attachments/assets/22f69695-831a-4621-bafd-ef308c598e51)
 
 You need privacy? Change your status!
 
